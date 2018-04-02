@@ -17,4 +17,4 @@ function addNumbers(a, b) {
     console.info('suma este: ' + a);
 }
 
-var count = addNumbers (3, 8);
+var count = addNumbers (3, 7);
